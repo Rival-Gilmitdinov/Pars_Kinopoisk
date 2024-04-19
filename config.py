@@ -13,7 +13,7 @@ HEADERS = {
     "Upgrade-Insecure-Requests": "1"}
 
 # Подключение к SQL
-DBNAME='Kinoloisk_senya'
-USER='postgres'
-PASSWORD='17080623'
-HOSTNAME='127.0.0.1'
+DBNAME=
+USER=
+PASSWORD=
+HOSTNAME=
